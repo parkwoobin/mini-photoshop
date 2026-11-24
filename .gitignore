@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+*.py[cod]
+build/
+build-*/
+dist/
+dist-*/
+models/
+*.log
+python-embed.zip
+get-pip-build.py
+*-test.png
+*-review.png
+MiniProbe*.spec
+probe_*.py
