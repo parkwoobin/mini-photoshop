@@ -1,5 +1,16 @@
 # 미니 포토샵
 
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![PyQt5](https://img.shields.io/badge/PyQt5-41CD52?logo=qt&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
+![Pillow](https://img.shields.io/badge/Pillow-image%20processing-blue)
+![ONNX Runtime](https://img.shields.io/badge/ONNX%20Runtime-005CED?logo=onnx&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-segmentation-111F68)
+![MODNet](https://img.shields.io/badge/MODNet-matting-8A2BE2)
+![python-pptx](https://img.shields.io/badge/python--pptx-PowerPoint-D24726)
+![PyInstaller](https://img.shields.io/badge/PyInstaller-packaging-3670A0)
+
 Windows에서 사진을 편집하고 AI로 피사체를 선택해 배경을 제거할 수 있는 데스크톱 이미지 편집기입니다. 여러 레이어와 문서 탭을 사용하고 작업 결과를 이미지 또는 PowerPoint로 내보낼 수 있습니다.
 
 ## 다운로드 및 실행
